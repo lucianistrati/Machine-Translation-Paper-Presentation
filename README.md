@@ -7,3 +7,5 @@
 
 
 Presentation link: https://docs.google.com/presentation/d/11TOpAs0EcWHSfqjP7Ubq_FMCE2qV6BqjtKdnfGuyTrM/edit?usp=sharing
+
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
